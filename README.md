@@ -1,4 +1,6 @@
 # Neopets-Userscripts
+ ### Flagged Users (Includes Mark Blocked Users)
+ This includes the same functionality as Mark Blocked Users, but adds an option to flag users. Your flagged list will show up on the same page as your blocked list (https://www.neopets.com/block.phtml) and users can be flagged/unflagged from either that page or directly on the neoboards. Unlike blocking users, there's no native functionality for flagging users so it is not something TNT will recognize in any way as this is just a userscript. It's just to aid in keeping track of users who you either you take issue with but not enough to block, or those you want to be wary of. Users that have been flagged will have their names in an orangey yellow or whichever color you'd like. (Change it at the top of the code). 
 
  ### Mark Blocked Users
  Once you add the script (using Tampermonkey or whichever you use), visit your blocklist. <br>
