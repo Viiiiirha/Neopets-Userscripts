@@ -39,8 +39,8 @@
         loc.parentNode.insertBefore(di, br2);
         loc.parentNode.insertBefore(br, di);
     } else {
-        loc.parentNode.insertBefore(br, loc.nextSibling);
-        loc.parentNode.insertBefore(di, br);
+        loc.parentNode.insertBefore(di, loc.nextSibling);
+        loc.parentNode.insertBefore(br, di);
     }
 
 })();
