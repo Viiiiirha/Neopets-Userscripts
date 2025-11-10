@@ -40,7 +40,7 @@
         loc.parentNode.insertBefore(br, di);
     } else {
         loc.parentNode.insertBefore(br, loc.nextSibling);
-        loc.parentNode.insertBefore(br, di);
+        loc.parentNode.insertBefore(di, br);
     }
 
 })();
