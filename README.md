@@ -12,3 +12,11 @@
 
  ### Trading Post QoL Features
  It's always really aggravating when you're trying to trade and you don't know when you've hit the 10 item limit. This prevents selecting more than 10 and makes it so that you don't have to click specifically on the checkbox. 
+
+It does make it so that clicking the checkbox itself will no longer work, which is unintentional but unlikely to be fixed.
+
+### Double or Nothing Odds
+Fairly self explanatory. It shows you the number of wins (heads) and losses (tails) and gives you a win rate. The odds are 50/50, so I like to be able to see what it's actually given me. 
+
+<img width="217" height="264" alt="image" src="https://github.com/user-attachments/assets/6f514019-cd0b-4c74-bca6-2d117a3331c7" />
+
