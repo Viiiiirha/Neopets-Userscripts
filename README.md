@@ -10,13 +10,17 @@
 
  I have 40 users blocked and at this point it's hard to remember who's who. TNT is finally enforcing the block function (a little bit more) so I definitely encourage using it
 
- ### Trading Post QoL Features
- It's always really aggravating when you're trying to trade and you don't know when you've hit the 10 item limit. This prevents selecting more than 10 and makes it so that you don't have to click specifically on the checkbox. 
-
-It does make it so that clicking the checkbox itself will no longer work, which is unintentional but unlikely to be fixed.
-
 ### Double or Nothing Odds
 Fairly self explanatory. It shows you the number of wins (heads) and losses (tails) and gives you a win rate. The odds are 50/50, so I like to be able to see what it's actually given me. 
 
 <img width="217" height="264" alt="image" src="https://github.com/user-attachments/assets/6f514019-cd0b-4c74-bca6-2d117a3331c7" />
+
+### Avatar Coping
+Since switching mains, I've been mourning the loss of the Bython avatar. I use the default hissi, and it bothers me every time I see it. This script lets you pretend you have that avatar that you want, while everyone else sees your actual avatar. 
+
+<img width="190" height="196" alt="image" src="https://github.com/user-attachments/assets/449acf2d-9c3d-4df7-b0f9-4f4a513dadf0" />
+
+### Display Custom Shopkeeper
+Many people use a custom shopkeeper to replace the one on the userlookup and the shop front, but it doesn't replace it on the shop stock or edit pages. This just replaces the shopkeeper on those two pages (that are only shown to you anyway) with one of your choosing. 
+
 
