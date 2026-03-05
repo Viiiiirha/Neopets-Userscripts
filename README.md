@@ -23,4 +23,8 @@ Since switching mains, I've been mourning the loss of the Bython avatar. I use t
 ### Display Custom Shopkeeper
 Many people use a custom shopkeeper to replace the one on the userlookup and the shop front, but it doesn't replace it on the shop stock or edit pages. This just replaces the shopkeeper on those two pages (that are only shown to you anyway) with one of your choosing. 
 
+### Stamp Album Navigation
+<img width="546" height="52" alt="image" src="https://github.com/user-attachments/assets/64fbcf8a-81ed-4332-8ee3-dfb6b55c615c" />
+
+Adds buttons to more easily navigate your stamp album.
 
